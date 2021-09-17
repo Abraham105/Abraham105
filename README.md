@@ -20,7 +20,7 @@
 
 
 ## You can find me 😁:
-- [Portfolio](https//:www.abrahandev.web.app)
+- [Portfolio](https://www.abrahandev.web.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
